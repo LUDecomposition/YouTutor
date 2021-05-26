@@ -1,0 +1,6 @@
+[submodule "YouTutor-lambda"]
+	path = YouTutor-lambda
+	url = https://github.com/LUDecomposition/YouTutor-lambda
+[submodule "YouTutor-frontEnd"]
+	path = YouTutor-frontEnd
+	url = https://github.com/LUDecomposition/YouTutor-frontEnd
